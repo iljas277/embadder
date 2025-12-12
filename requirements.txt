@@ -1,0 +1,7 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+python-telegram-bot>=20.0
+requests
+langchain-text-splitters
+python-dotenv
